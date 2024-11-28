@@ -1,5 +1,5 @@
 ![nion digital](/profile/profile.png) 
 
-nion digital entwickelt digitale Produkte und Webanwendungen für unterschiedliche Auftraggeber und Branchen. Von Echtzeit-Applikationen über Cloud Plattformen bis zu Webportalen oder Prototypen gestalten die Digitalexpert\*innen maßgeschneiderte technologische Lösungen für die Zukunft.
+Als Digitalstudio gestalten wir datengestützte, digitale Experiences mit dem Anspruch bestmöglicher Barrierefreiheit und folgen zugleich nachhaltigen Prinzipien. Unsere Projekte starten oft mit Prototypen und entwickeln sich zu langfristigen Partnerschaften, in denen wir komplexe Websites und Plattformen realisieren.
 
 https://www.nion-digital.com
